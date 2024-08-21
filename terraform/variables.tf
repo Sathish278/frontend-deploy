@@ -16,7 +16,7 @@ variable "common_tags" {
 }
 
 variable "zone_name" {
-  default = "daws78s.online"
+  default = "sathishreddy.online"
 }
 
 # created this as part of Jenkins CD
